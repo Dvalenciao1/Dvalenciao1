@@ -11,12 +11,8 @@ Desarrollador Full Stack en Guayaquil, Ecuador 🇪🇨, enfocado en construir a
 
 ## 🛠️ Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,dotnet,nodejs,docker,nextjs,nestjs,mysql,postgres,express,redis,react,py,postman&perline=5)](https://skillicons.dev)
+
 
 ## 📌 Proyectos destacados
 
@@ -31,8 +27,8 @@ Desarrollador Full Stack en Guayaquil, Ecuador 🇪🇨, enfocado en construir a
 
 ## 📊 Estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dvalenciao1)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvalenciao1&layout=compact)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dvalenciao1&show_icons=true&theme=radical&commits_year=2024)
+
 
 ## 📫 Contacto
 
