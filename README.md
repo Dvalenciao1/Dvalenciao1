@@ -31,7 +31,7 @@ Desarrollador Full Stack en Guayaquil, Ecuador 🇪🇨, enfocado en construir a
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvalenciao1&show_icons=true&theme=default&hide_title=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dvalenciao1)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvalenciao1&layout=compact)
 
 ## 📫 Contacto
